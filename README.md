@@ -8,7 +8,7 @@ Exemple when used quickly by default : plotPairedData(x)
 _________________________
 Exemple when used with a second input that specifies color: plotPairedData(x,col)
 
-![alt text](https://github.com/PabRD/pressureWalking/blob/main/gitHub_Exemple2.png)
+![alt text](https://github.com/PabRD/plotPairedData/blob/main/gitHub_Exemple2.png)
 
 
 ________________________
