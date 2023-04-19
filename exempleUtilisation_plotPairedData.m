@@ -55,4 +55,8 @@ arrayfun(@(x) set(x,'linewidth',.5,'Color',...                              % le
 
 set(errorbarHandle,'Color',col(4,:))
 
+%% Fonctionne avec n'importe quel nombre d'échantillons
+figure
+plotPairedData(mydata(:,[3 6]))
+
 % Si vous faites des améliorations sur la fonction je suis preneur :D
